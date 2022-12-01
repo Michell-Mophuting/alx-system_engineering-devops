@@ -1,2 +1,2 @@
-#!/bin/bash 
-sudo chown betty hello, ls -l
+#!/bin/bash
+sudo chown betty hello ls -l
